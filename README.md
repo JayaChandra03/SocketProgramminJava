@@ -1,2 +1,2 @@
-# SocketProgramminJava
+# SocketProgrammingJava
 Java Socket Programming
